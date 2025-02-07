@@ -7,13 +7,17 @@
 	border:3px solid blue;
 	background-color:black;
 	color:yellow;
+	text-align: center;
 
 }
 .heading{
 	color:red;
+	text-align: center;
+    text-decoration:underline;
+
 } 
 .body{
-    background-color: rgb(253, 252, 252);
+    background-color: rgb(164, 152, 219);
 }
 .div{
     border: 2px solid rgb(73, 67, 124);
@@ -22,13 +26,10 @@
     margin: 30px auto;
     padding-left:100px;
     padding-bottom: 20px;
-    background-color: pink;
+    background-color: rgb(151, 137, 230);
     font-size:20px;
-}
-heading{
-color:brown;
-text-decoration:underline;
 }
 img{
 	height:150px;
-	width:150px;}
+	width:150px;
+}
